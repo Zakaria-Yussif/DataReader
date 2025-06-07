@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f228ca0c-76da-4669-b4f2-fe6e256c08c4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileData/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/FileData/procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zakar\Desktop\MathData\FileData\myFileData" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zakar\Desktop\MathData\FileData" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -70,7 +72,7 @@
       <updated>1749238404534</updated>
       <workItem from="1749238405616" duration="1442000" />
       <workItem from="1749239885756" duration="109000" />
-      <workItem from="1749240033662" duration="6927000" />
+      <workItem from="1749240033662" duration="7505000" />
     </task>
     <servers />
   </component>
