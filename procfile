@@ -1,1 +1,2 @@
-web: gunicorn FileData.wsgi
+web: gunicorn FileData.wsgi:application
+cd

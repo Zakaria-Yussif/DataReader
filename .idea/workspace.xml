@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f228ca0c-76da-4669-b4f2-fe6e256c08c4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileData/procfile" beforeDir="false" afterPath="$PROJECT_DIR$/procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileData/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +53,7 @@
       <recent name="C:\Users\zakar\Desktop\MathData\FileData\myFileData" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zakar\Desktop\MathData" />
       <recent name="C:\Users\zakar\Desktop\MathData\FileData" />
     </key>
   </component>
@@ -72,7 +75,7 @@
       <updated>1749238404534</updated>
       <workItem from="1749238405616" duration="1442000" />
       <workItem from="1749239885756" duration="109000" />
-      <workItem from="1749240033662" duration="7505000" />
+      <workItem from="1749240033662" duration="8199000" />
     </task>
     <servers />
   </component>
